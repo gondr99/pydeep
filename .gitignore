@@ -1,2 +1,4 @@
 .pytest_cache
 .vscode
+dataset/__pycache__
+dataset/mnist.pkl
